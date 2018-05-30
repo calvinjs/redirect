@@ -1,0 +1,13 @@
+{
+  "name": "@dylanjs/redirect",
+  "version": "0.1.0",
+  "description": "Middleware for Dylan which enables a 301 redirects table.",
+  "license": "MIT",
+  "keywords": [
+    "middleware",
+    "dylan"
+  ],
+  "repository": "dylanjs/redirect",
+  "author": "Shane Thacker <shane@steadymade.com>",
+  "main": "./index"
+}
