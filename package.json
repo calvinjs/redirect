@@ -1,5 +1,5 @@
 {
-  "name": "@dylanjs/redirect",
+  "name": "@dylan/redirect",
   "version": "0.1.0",
   "description": "Middleware for Dylan which enables a 301 redirects table.",
   "license": "MIT",
